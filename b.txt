@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hellooo guyss
 hiiii
 =======
 hiiiii
 helooooooo
 >>>>>>> first
+=======
+from bhatkal
+>>>>>>> second

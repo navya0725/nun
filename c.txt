@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 from bhatkal
 guysssss
+=======
+heloooo guys
+>>>>>>> second

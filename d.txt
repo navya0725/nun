@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 whtas up 
 guyssssssssssss
+=======
+hiiiiii
+helloooo
+>>>>>>> second
