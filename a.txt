@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 im navyaaaaaaaaaa
 from bhtakal
+=======
+im 
+navya 
+>>>>>>> first
